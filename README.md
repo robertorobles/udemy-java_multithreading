@@ -4,7 +4,7 @@ udemy-java_multithreading
 Java multithreading course at Udemy
 
 
-Course Syllabus:
+Course content:
 ---------------
 1. Starting Threads
 2. Basic Thread Synchronization
